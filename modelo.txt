@@ -1,0 +1,40 @@
+adso de cadatro do usuario:
+
+  - nome completo
+  - email
+  - senha
+  - id
+  - data criacao
+  - data atualizacao
+
+
+dados para autenticação:
+
+  - E-Mail
+  - senha
+
+
+Dados do pet:
+
+  - idade (ano)
+  - porte
+  - caracteristcias ( ativo, carinhoso, educado, calmo, etc
+
+
+mensagem para resposavel do anima
+
+  - nome complet
+  - telefone
+  - nome do animal
+  - nome do animal
+  - mensagem
+
+(sera persistido e enviado via e-mail)
+
+
+dados de perfil:
+
+  - nome
+  - telefone
+  - cidade
+  - sobre 
